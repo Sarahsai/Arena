@@ -83,10 +83,36 @@ h6{
 }
 
 .img1{
-  width: 10%;
+  width: 50%;
   height: auto;
-  margin: 10px;
+  margin: 16px;
   padding: 50px;
-  margin-left: 40px;
-  margin-top: 210px;
+  margin-left: 800px;
+  margin-top: -250px;
+}
+
+.img2{
+  width: 90%;
+  height: auto;
+  margin: 16px;
+  padding: 50px;
+  margin-left: 720px;
+  margin-top: -280px;
+}
+
+.img3{
+  width: 90%;
+  height: auto;
+  margin: 16px;
+  padding: 50px;
+  margin-left:720px;
+  margin-top: -280px;
+}
+.img4{
+  width: 90%;
+  height: auto;
+  margin: 16px;
+  padding: 50px;
+  margin-left: 720px;
+  margin-top: -280px;
 }
